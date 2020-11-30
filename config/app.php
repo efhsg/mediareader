@@ -229,4 +229,6 @@ return [
 
     ],
 
+    'mountpoint' => env('MOUNTPOINT'),
+
 ];
